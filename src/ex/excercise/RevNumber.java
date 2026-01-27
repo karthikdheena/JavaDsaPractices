@@ -20,7 +20,13 @@ public class RevNumber {
 			nums = nums/10;
 			
 		}
-	
+		
+//		SringBuffer method
+		
+//		StringBuffer sb = new StringBuffer(String.valueOf(nums));
+//		StringBuffer rev = sb.reverse();
+		
+		
 		System.out.println("reversed number:" + rev );
 	}
 }
