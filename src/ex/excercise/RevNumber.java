@@ -14,6 +14,8 @@ public class RevNumber {
 		
 		int rev = 0;
 		
+		
+		
 		while(nums != 0) {
 			
 			rev = rev*10 + nums%10;
